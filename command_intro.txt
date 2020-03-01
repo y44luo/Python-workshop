@@ -1,4 +1,5 @@
-User tab to auto complete
+User Tab to auto-complete
+---
 mkdir
 ls
 ls -la
@@ -6,4 +7,17 @@ cd
 cd .. (go back to the previous folder)
 pwd
 clear
-cd ~ (go to home directory --> /c/Users/<username>)
+cd ~ (go to home directory --> /c/Users/<username> in Windows)
+
+cat <file_name>
+
+git status
+git add .
+
+git commit -m "<commit_message>"
+
+git config --global user.name "someone"
+git config --global user.email "someone@someplace.com"
+git config --list
+
+git push
