@@ -1,0 +1,9 @@
+User tab to auto complete
+mkdir
+ls
+ls -la
+cd
+cd .. (go back to the previous folder)
+pwd
+clear
+cd ~ (go to home directory --> /c/Users/<username>)

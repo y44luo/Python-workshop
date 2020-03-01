@@ -1,0 +1,4 @@
+cd ~ (go to home directory)
+mkdir github_repos (create a new folder named github_repos)
+cd github_repos (go to that github_repos)
+git clone <https://github.com/y44luo/Python-workshop.git> (clone the github repo)
